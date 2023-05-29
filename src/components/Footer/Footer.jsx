@@ -36,7 +36,6 @@ const Footer = () => {
               );
             })}
         </div>
-        <hr />
       </Container>
     </footer>
   );
