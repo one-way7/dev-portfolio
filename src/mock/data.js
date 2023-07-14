@@ -21,11 +21,21 @@ export const aboutData = {
   paragraphOne: `I'm 24, I am madly in love with programming, in my free time from programming I do sports and read literature that helps me become better as a developer. Always glad to meet new people.`,
   paragraphTwo: 'My current stack: HTML5, CSS3/Scss, JavaScript, React/Redux.',
   paragraphThree: ' ',
-  resume: 'https://www.dropbox.com/s/ndxqzudoyqyg6f9/Resume_Stan_Frontend.pdf?dl=0', // if no resume, the button will not show up
+  resume: 'https://www.dropbox.com/s/n0sp7gddjt8a2fh/Resume_Stan_Frontend.pdf?dl=0', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'crwn-clothing.jpg',
+    title: 'Crwn-Clothing - E-commerce clothes store',
+    info: `A fictional online clothing store made with React and Firestore for data storage. Features include: user authentication, shopping cart, checkout & data persistence.`,
+    info2:
+      'Stack: React/Redux, Redux-Saga, Redux-Persist, react-router-dom, Styled Components, Firebase',
+    url: 'https://clothingcrwnstore.netlify.app/',
+    repo: 'https://github.com/one-way7/crwn-clothing',
+  },
   {
     id: nanoid(),
     img: 'forkify.jpg',
