@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.png',
   paragraphOne: `I'm 24, I am madly in love with programming, in my free time from programming I do sports and read literature that helps me become better as a developer. Always glad to meet new people.`,
-  paragraphTwo: 'My current stack: HTML5, CSS3/Scss, JavaScript, React/Redux.',
+  paragraphTwo: 'My current stack: HTML5, CSS3/Scss, JavaScript/TypeScript, React/Redux.',
   paragraphThree: ' ',
   resume: 'https://www.dropbox.com/s/n0sp7gddjt8a2fh/Resume_Stan_Frontend.pdf?dl=0', // if no resume, the button will not show up
 };
@@ -29,7 +29,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'crwn-clothing.jpg',
-    title: 'Crwn-Clothing - E-commerce clothes store',
+    title: 'Crwn-Clothing',
     info: `A fictional online clothing store made with React and Firestore for data storage. Features include: user authentication, shopping cart, checkout & data persistence.`,
     info2:
       'Stack: React/Redux, Redux-Saga, Redux-Persist, react-router-dom, Styled Components, Firebase',
