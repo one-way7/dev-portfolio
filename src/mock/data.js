@@ -18,8 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.png',
-  paragraphOne: `I'm 24, I am madly in love with programming, in my free time from programming I do sports and read literature that helps me become better as a developer. Always glad to meet new people.`,
-  paragraphTwo: 'My current stack: HTML5, CSS3/Scss, JavaScript/TypeScript, React/Redux.',
+  paragraphOne: `Hi, my name's Vlad. I'm a upcoming Frontend Developer, Thank you for your attention to my candidacy, I spend almost all my time learning programming and get great pleasure from it, I also like to lead a healthy lifestyle, visit the gym, and develop comprehensively as a person. I'll be glad to meet you!`,
+  paragraphTwo: 'My current stack: JS/TS, React/Redux, HTML5/CSS3/Sass',
   paragraphThree: ' ',
   resume: 'https://www.dropbox.com/s/n0sp7gddjt8a2fh/Resume_Stan_Frontend.pdf?dl=0', // if no resume, the button will not show up
 };
